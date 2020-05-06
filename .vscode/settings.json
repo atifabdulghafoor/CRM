@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/dev/Atif's Data/Projects/CRM/venv/bin/python3",
+    "cornflakes.linter.executablePath": "/venv/bin/flake8",
+
+}
